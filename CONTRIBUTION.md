@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-[In this document shall describe how you would like others to contribute to your code and what code of conduct shall they follow to avoid conflicts and misunderstandings during the collaboration process.]
+This document describes guidelines for contribution to the code and the code of conduct to follow to avoid conflicts and misunderstandings during the collaboration process.
 
 ## Installation for Developers
 [Describe the steps  that *developer* should follow to install the source code and set up a development environment for each of the intended platforms (e.g. Windows 10, macOS, etc.).]
@@ -9,7 +9,7 @@
 - [List the software and/or technologies on which the code depends, and add hyperlinks to the sources whenever possible.]
 - [State any relevant hardware requirements.]
 
-#### [For Patform A]
+#### [For Platform A]
 
 [List and describe each step required to set up a development environment and install the source code. Use a description/example format.] [For example:]
 
